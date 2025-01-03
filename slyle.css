@@ -1,4 +1,6 @@
-p{
-    padding-left: 300px;
-    margin-bottom: 500px;
+img{
+    border: 80px solid red;
+}
+body{
+    background-color: gold;
 }
