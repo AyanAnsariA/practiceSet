@@ -3,5 +3,11 @@ img{
     margin-left:;
 }
 #you{
-    box-shadow: 5px 50px 60px 30px blue;
+    box-shadow: 5px 50px 25px blue;
+}
+p{
+    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}h1{
+    font-family:'Times New Roman', Times, serif;
 }
