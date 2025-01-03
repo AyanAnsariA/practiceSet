@@ -1,6 +1,7 @@
 img{
-    border: 5px solid red;
+    border: 8px solid red;
+    margin-left: 350px;
 }
-body{
-    background-color: ;
+#you{
+    box-shadow: 5px 50px 60px 30px blue;
 }
