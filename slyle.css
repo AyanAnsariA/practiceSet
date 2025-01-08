@@ -12,3 +12,6 @@ table :hover{
 button{
     border: 5px solid;
 }
+img{
+    resize: both;
+}
