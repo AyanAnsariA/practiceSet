@@ -2,3 +2,13 @@
     border: 5px double;
     background-repeat: no-repeat;
 }
+.yasin :hover{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 5.8;
+}
+table :hover{
+    opacity: 0.5;
+}
+button{
+    border: 5px solid;
+}
