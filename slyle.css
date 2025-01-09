@@ -4,14 +4,20 @@
 }
 .yasin :hover{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    opacity: 5.8;
+    opacity: 10.8;
 }
 table :hover{
-    opacity: 0.5;
+    opacity: 0.8;
 }
 button{
     border: 5px solid;
 }
 img{
     resize: both;
+}
+#a{
+    width: 350px;
+    height: 350px;
+    background-image: radial-gradient(blue, yellow,  gold,green);
+    resize: none;
 }
