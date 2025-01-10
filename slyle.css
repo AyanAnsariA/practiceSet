@@ -1,23 +1,10 @@
 #yasin{
-    border: 5px double;
-    background-repeat: no-repeat;
-}
-.yasin :hover{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    opacity: 10.8;
-}
-table :hover{
-    opacity: 0.8;
+    width: 250px;
+    height: 258px;
+    border: 5px solid;
+    background-image: linear-gradient(orange, white, green);
 }
 button{
-    border: 5px solid;
-}
-img{
-    resize: both;
-}
-#a{
-    width: 350px;
-    height: 350px;
-    background-image: radial-gradient(blue, yellow,  gold,green);
-    resize: none;
+    width: 100%;
+    height: 100%;
 }
