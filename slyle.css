@@ -1,17 +1,9 @@
-#yasin{
-    width: 250px;
-    height: 258px;
-    border: 5px solid;
-    background-image: linear-gradient(orange, white, green);
-}
-button{
-    width: 100%;
-    height: 100%;
-}
 img{
-    filter: drop-shadow(10px 10px 20px black);
+    filter: drop-shadow(10px 10px 20px red);
 }
-
-#img{
+#yasin{
     filter: drop-shadow(10px 10px 20px blue);
+}
+.yasin{
+    filter: drop-shadow(10px 10px 20px white);
 }
